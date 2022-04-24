@@ -1,0 +1,47 @@
+body{
+	background-color: yellow;
+}
+
+p {
+	text-align: center;
+	font-size: 25px;
+	font-style: italic;
+	font-weight: bold
+}
+
+.esportes{
+	color: white;
+}
+
+.chuteiras{
+	color:green;
+	text-align: center;
+	
+}
+
+.card-title{
+	
+	background-color: aqua;
+	text-align: center;
+	color: red;
+}
+
+.agasalhos{
+	
+	color:green;
+	text-align: center;
+	
+}
+
+
+
+
+
+.btn-outline-success {
+    color: #28a745;
+    background-color: orange;
+    background-image: white;
+    border-color: #28a745;
+    margin-left: 150px;
+}
+

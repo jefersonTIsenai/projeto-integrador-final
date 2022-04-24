@@ -1,0 +1,17 @@
+body{
+	background-color: purple;
+}
+
+p{
+	font-style: oblique;
+	font-weight: 700;
+}
+
+.btn-outline-success {
+    color: #28a745;
+    background-color: transparent;
+    background-image: none;
+    border-color: #28a745;
+    margin-left: 50%;
+}
+

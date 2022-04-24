@@ -1,0 +1,50 @@
+body{
+	background-color: white;
+}
+
+p{
+	text-align: center;
+	font-size: 25px;
+	font-style: italic;
+	font-weight: bold
+
+}
+
+.esportes{
+	color: white;
+}
+
+.btn-outline-success {
+    color: #28a745;
+    background-color: orange;
+    background-image: white;
+    border-color: #28a745;
+    margin-left: center;
+
+}
+
+.row{
+	
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+	color:fuchsia;
+	border-bottom-width: medium;
+}
+
+.base{
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+	color:green;
+	
+}
+
+
+
+
+
+
+	
+	
+	
